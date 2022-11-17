@@ -16,6 +16,7 @@ The dashboard visuals created:
    * Guage Graphic of the Washing Frequency per week.
    * Bubble Chart of the cultures per sample.
    
+## Deployment
 https://meiernate.github.io/GitHub.io/
 
 ![Plotly_Biodiversity](Analysis/Plotly_Biodiversity.png)
