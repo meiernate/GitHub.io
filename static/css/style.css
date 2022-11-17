@@ -1,0 +1,52 @@
+
+/* Add an image to the jumbotron */
+.jumbotron_section {
+    margin-bottom: 20px;
+    background-color: lightgray;
+    background-image: url("../images/Medical-Banner.jpg");
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 6px;
+    border-width: 2px;
+    border-style: groove;
+    border-color: lightgray;
+}
+
+/* Add background color or a variety of compatible colors to the webpage */
+body {
+    background-color: #e7ddd0;
+}
+
+.bar_and_gauge {
+    background-color: #fff;
+    border-radius: 6px;
+    border-width: 2px;
+    border-style: groove;
+    border-color: lightgray;
+    padding: 10px;
+}
+
+/* Change the layout of the page */
+.jumbotron {
+    background: none;
+    margin-bottom: 0;
+}
+
+.footer_section {
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #cab28b;
+    border-radius: 6px;
+    border-width: 2px;
+    border-style: groove;
+    border-color: lightgray;
+}
+
+.footer p {
+    text-align: center;
+    padding-top: 19px;
+}
+
