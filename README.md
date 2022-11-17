@@ -12,8 +12,8 @@ Software: HTML, CSS, JavaScript, Bootstrap, Plotly
 The webpage has a dropdown of test subject ids to filter the dashboard data. The demographic data is shown. 
 
 The dashboard visuals created:
-    - Bar Chart of the top 10 bacteria cultures found.
-    - Guage Graphic of the Washing Frequency per week.
-    - Bubble Chart of the cultures per sample.
+    * Bar Chart of the top 10 bacteria cultures found.
+    * Guage Graphic of the Washing Frequency per week.
+    * Bubble Chart of the cultures per sample.
 
 ![Plotly_Biodiversity](Analysis/Plotly_Biodiversity.png)
